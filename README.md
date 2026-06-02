@@ -4,6 +4,12 @@ SmartCampus is a web-based academic management system developed using **PHP, MyS
 The platform is designed to digitize and streamline university academic operations through role-based access for **Admin**, **Teacher**, and **Student** users.
 
 ---
+# 🚀 Live Demo & Login Crediantials
+
+https://smart-campus.infinityfree.me/student-portal/login.php .
+Demo admin login info.
+email: admin@gmail.com
+pass: admin123
 
 # 🚀 Features
 
